@@ -1,5 +1,20 @@
 # Residencial Las Palmas — Control de Condominios
 
+<!-- teaser:start -->
+<p align="center">
+<img src="docs/screenshots/02-residentes-unidades.jpg" width="32%" alt="Directorio de unidades y residentes"> <img src="docs/screenshots/03-cuotas-pagos.jpg" width="32%" alt="Cuotas de mantenimiento con estado de pago y saldo"> <img src="docs/screenshots/04-reservas-areas.jpg" width="32%" alt="Reservas de áreas comunes con aprobación">
+</p>
+
+<details><summary>Más capturas</summary>
+
+<p align="center">
+<img src="docs/screenshots/05-visitas.jpg" width="48%" alt="Historial de visitas con entrada y salida" title="Historial de visitas con entrada y salida"> <img src="docs/screenshots/06-movil-dashboard.jpg" width="48%" alt="Dashboard adaptado a móvil con navegación inferior" title="Dashboard adaptado a móvil con navegación inferior"> <img src="docs/screenshots/01-dashboard.jpg" width="48%" alt="Dashboard del administrador con cobranza, morosidad y gráficas" title="Dashboard del administrador con cobranza, morosidad y gráficas">
+</p>
+
+</details>
+<!-- teaser:end -->
+
+
 Aplicación web full-stack para la administración de un condominio: residentes y unidades, cuotas y pagos, reservas de áreas comunes, mantenimiento, avisos y control de visitas. Responsive (mobile-first) e instalable como PWA.
 
 ## Stack
